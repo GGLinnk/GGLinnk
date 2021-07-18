@@ -2,10 +2,9 @@
 
 Hey !
 
-Bienvenue sur mon GitHub !<br>
 Si vous avez besoin d'aide dans vos projets ou si vous avez un idée a me proposer, n’hésitez pas a me contacter ^^
 
-J'ai hate de travailler avec vous !
+J'ai hate de travailler avec vous ^^
 
 A bientôt !
 
