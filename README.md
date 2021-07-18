@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Bienvenue sur mon GitHub</h1>
+
+Hey !
+
+Bienvenue sur mon GitHub !<br>
+Si vous avez besoin d'aide dans vos projets ou si vous avez un idée a me proposer, n’hésitez pas a me contacter ^^
+
+J'ai hate de travailler avec vous !
+
+A bientôt !
 
 <!--
 **GGLinnk/gglinnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
