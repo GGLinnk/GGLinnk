@@ -2,7 +2,7 @@
 
 Hey !
 
-Si vous avez besoin d'aide dans vos projets ou si vous avez un idée a me proposer, n’hésitez pas a me contacter ^^
+Si vous avez besoin d'aide dans vos projets ou si vous avez des idées de projet a me proposer, n’hésitez pas a me contacter ^^
 
 J'ai hate de travailler avec vous ^^
 
